@@ -20,3 +20,5 @@ The sequences were subsequently embedded and saved as a tensor.
 TestMiniNetSurfP: Implementing a miniature version of NetSurfP-3.0 to compare the models with different training sets.
 
 NB: The datasets used in this project where too big (above 25MB), and could therefore not be uploaded to this repository. For a copy of the data set please refer to either Oskar or Thomas by email at: s184364@student.dtu.dk or s184440@student.dtu.dk
+
+![Error_Git](https://user-images.githubusercontent.com/101178905/210615534-e53bbeec-6944-49eb-9ddb-8fc584914044.PNG)
